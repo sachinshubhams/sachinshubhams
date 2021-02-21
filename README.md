@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working with include Machine Learning, Deep Learning, GANS and Natural Language Processing and Business Intelligence. 
+
+Connect me on <a href="https://www.linkedin.com/in/sachinshubham/">LinkedIn</a> 💼
+
 <!--
 **sachinshubhams/sachinshubhams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
