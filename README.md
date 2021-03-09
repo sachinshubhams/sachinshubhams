@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinshubhams" alt="sachinshubhams" /> </p>
 
 I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working with include Machine Learning, Deep Learning, GANS and Natural Language Processing and Business Intelligence. 
 
