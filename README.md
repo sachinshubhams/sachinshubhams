@@ -1,6 +1,10 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinshubhams" alt="sachinshubhams" /> </p>
 
+<img align="right" src="https://github.com/sachinshubhams/sachinshubhams/blob/main/Assistant.gif" height="400" width="450">
+
+
+
 <h2 align="top">About Me <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
 I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working with include Machine Learning, Deep Learning, GANS and Natural Language Processing and Business Intelligence. 
