@@ -1,7 +1,8 @@
 ### Hi there 👋
+<img align="right" src="https://github.com/sachinshubhams/sachinshubhams/blob/main/Assistant.gif" height="400" width="450">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinshubhams" alt="sachinshubhams" /> </p>
 
-<img align="right" src="https://github.com/sachinshubhams/sachinshubhams/blob/main/Assistant.gif" height="400" width="450">
 
 
 
