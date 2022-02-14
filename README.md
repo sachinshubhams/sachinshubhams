@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinshubhams&theme=radical)
 ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinshubhams&hide=prs,issues,contribs?username=sachinshubhams&count_private=true?username=sachinshubhams&show_icons=true&theme=radical)
 
-[![Sachin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sachinshubhams&layout=compact)](https://github.com/sachinshubhams)
